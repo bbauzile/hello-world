@@ -1,2 +1,3 @@
 # hello-world
-iniatiation
+initiation
+hello to the world
